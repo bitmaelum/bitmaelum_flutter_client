@@ -11,9 +11,11 @@ packages:
   bitmaelum_flutter_plugin:
     dependency: "direct main"
     description:
-      path: "/Users/acalatrava/Documents/Mis_Aplicaciones/Flutter/plugins/bitmaelum_flutter_plugin"
-      relative: false
-    source: path
+      path: "."
+      ref: develop
+      resolved-ref: "44de1aedd03c8f6974bdb1ff9db12e277a4ac6ff"
+      url: "https://github.com/bitmaelum/bitmaelum_flutter_plugin"
+    source: git
     version: "0.0.1"
   boolean_selector:
     dependency: transitive
